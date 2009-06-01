@@ -1,5 +1,5 @@
 <?
-require_once("/Users/NAzT/Library/NAzT/twitter.lib.php");
+require_once("twitter.lib.php");
 
 
 $twitter=InputAndLoginToTwitter();
