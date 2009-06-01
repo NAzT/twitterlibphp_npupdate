@@ -1,0 +1,1 @@
+php /NAzTScripts/npupdate.php
